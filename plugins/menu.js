@@ -8,7 +8,7 @@ cmd({
 
     pattern: "menu",
 
-    react: "🧡",
+    react: "🧣",
 
     alias: ["panel","commands"],
 
@@ -27,13 +27,9 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 try{
 let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
-❁ ════ ❃•◯•❃ ════ ❁
-
-*⇆ ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ⇆*
+> *Hi My Friend*👋
 
      *${pushname}*
-     
-❁ ════ ❃•◯•❃ ════ ❁
 
 > *CREATOR*=Lakshitha Ishara〽️
 
@@ -43,7 +39,7 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
       *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ISHARA-ᴍᴅ ғᴜʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ LAKSHITHA ISHARA🧡
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ LAKSHITHA ISHARA🔰
 
 
 *╭──❮ DOWNLOAD S ❯*
@@ -168,7 +164,7 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> ᴄʀᴇᴀᴛᴇᴅ ʙʏ LAKSHITHA ISHARA🧡
+> ᴄʀᴇᴀᴛᴇᴅ ʙʏ LAKSHITHA ISHARA🔰
 
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
