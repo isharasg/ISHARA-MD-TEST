@@ -89,14 +89,14 @@ console.log('ISHARA-MD CONNECTED TO WHATSAPP ENJOY 🍁✅')
 let up = `*╭──────────────●●►*
 > *ISHARA MD BOT CONNECTED SUCCESSFULLY🌴*
 
->*CREATED BY LAKSHITHA ISHARA*🍁
+> *CREATED BY LAKSHITHA ISHARA*🔰
 
->*THANKS FOR USING ISHARA-MD*😊
+> *THANKS FOR USING ISHARA-MD*😊
 
->*YOUR BOT ACTIVE NOW ENJOY🍁🌴🧡*\n\n*PREFIX: ${prefix}*
+> *YOUR BOT ACTIVE NOW ENJOY🧣*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/Z553vPvx/LK.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/44PphBQF/bot.jpg` }, caption: up })
 
 }
 })
@@ -168,12 +168,12 @@ m.react("🧣")
 
 if(senderNumber.includes("94776406272")){
 if(isReact) return
-m.react("🧣")
+m.react("☢️")
 }
 
 if(senderNumber.includes("94776406272")){
 if(isReact) return
-m.react("🧣")
+m.react("🔰")
 }
 //==========================public react===============//
 //AutoReact 

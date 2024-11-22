@@ -2,7 +2,7 @@
 A simple bot created by Lakshitha Ishara🍁🌴😊
 <div align="center">
 	<h3>🍁ISHARA-MD🍁</h3>
-<img src="https://i.postimg.cc/SKKKjt69/cyberpunk-katana-dog-digital-art-hd-wallpaper-1920x1080-uhdpaper-com-590-0-b.jpg">
+<img src="https://i.postimg.cc/44PphBQF/bot.jpg">
 </div>
 
  <p align="center">
