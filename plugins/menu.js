@@ -6,25 +6,19 @@ const axios = require('axios')
 
 cmd({
 
-    pattern "menu
-",
+    pattern: "menu",
 
-    react "🧣",
+    react: "🧣",
 
-    alias ["pan
-el","commands"],
+    alias: ["panel","commands"],
 
-    desc "Get 
-bot\'s command list.",
+    desc: "Get bot\'s command list.",
 
-    category "main
-",
+    category: "main",
 
-    use '.men
-u',
+    use: '.menu',
 
-    filename __fil
-ename
+    filename: __filename
 
 },
 
