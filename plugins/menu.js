@@ -169,7 +169,7 @@ CREATED BY LAKSHITHA ISHARA🔰
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
 
-await conn.sendMessage(from,{image{urlconfig.ALIVE_IMG},captionmadeMenu},{quotedmek})
+await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
 
 }catch(e){
 console.log(e)
