@@ -6,19 +6,25 @@ const axios = require('axios')
 
 cmd({
 
-    pattern: "menu",
+    pattern "menu
+",
 
-    react: "🧣",
+    react "🧣",
 
-    alias: ["panel","commands"],
+    alias ["pan
+el","commands"],
 
-    desc: "Get bot\'s command list.",
+    desc "Get 
+bot\'s command list.",
 
-    category: "main",
+    category "main
+",
 
-    use: '.menu',
+    use '.men
+u',
 
-    filename: __filename
+    filename __fil
+ename
 
 },
 
@@ -36,140 +42,140 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 > *OWNER NUMBER*=94776406272〽️
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
-      *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ISHARA-ᴍᴅ ғᴜʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ*
+      *FULL COMMAND LIST ISHARA-MD💯*
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ LAKSHITHA ISHARA🔰
+CREATED BY LAKSHITHA ISHARA🔰
 
 
 *╭──❮ DOWNLOAD S ❯*
-│
-│📝: .play
-│🟡Download Audio from yt
-│ 
-│📝: .song
-│🟡Download song from yt
-│ 
-│📝: .apk
-│🟡Download apk from playstore
-│ 
-│📝: .video
-│🟡Download video from yt
-│ 
-│📝: .fb
-│🟡Download  video from fb
-│ 
-│📝: .tk
-│🟡Download video from tiktok
-│ 
-│📝: .ig
-│🟡Download video from ig
-│ 
-│📝: .gdrive
-│🟡Download drive files
-│ 
-│📝: .wamod
-│🟡Download wamod apk
-│
-│📝: .img
-│🟡Download image
-│
-│📝: .xvideo
-│🟡Download xxx video
+
+> 📝 .play
+🧣*Download Audio from yt*
+ 
+> 📝 .song
+🧣Download song from yt
+ 
+> 📝 .apk
+🧣Download apk from playstore
+ 
+> 📝 .video
+🧣Download video from yt
+ 
+> 📝 .fb
+🧣Download  video from fb
+ 
+> 📝 .tk
+🧣Download video from tiktok
+ 
+> 📝 .ig
+🧣Download video from ig
+ 
+> 📝 .gdrive
+🧣Download drive files
+ 
+> 📝 .wamod
+🧣Download wamod apk
+
+> 📝 .img
+🧣Download image
+
+> 📝 .xvideo
+🧣Download xxx video
 ╰────────────⦁ 
 
 *╭──❮ SEARCH S ❯*
-│
-│📝: .yts
-│🟡Serch videos from yt
+
+> 📝 .yts
+🧣Serch videos from yt
 ╰────────────⦁  
 
 *╭──❮‍ MAIN S ❯*
-│
-│📝: .alive
-│🟡Check online or not
-│  
-│📝: .ping
-│🟡Check bot speed
-│  
-│📝: .menu
-│🟡Nero main menu
-│
-│📝: .menu2
-│🟡Nero main menu2
-│ 
-│📝: .ai
-│🟡chat with ai bot
-│
-│📝: .system
-│🟡check bot systems
-│
-│📝: .owner
-│🟡get owner info
-│ 
-│📝: .status
-│🟡check bot runtime
+
+> 📝 .alive
+🧣Check online or not
+  
+> 📝 .ping
+🧣Check bot speed
+  
+> 📝 .menu
+🧣Nero main menu
+
+> 📝 .menu2
+🧣Nero main menu2
+ 
+> 📝 .ai
+🧣chat with ai bot
+
+> 📝 .system
+🧣check bot systems
+
+> 📝 .owner
+🧣get owner info
+ 
+> 📝 .status
+🧣check bot runtime
 ╰────────────⦁
 
 *╭──❮ OTHER S ❯*
-│
-│📝: .hirunews/news
-│🟡Get news result for life
-│ 
-│📝: .wabeta
-│🟡Get whatsapp beta news
-│
-│📝: .sitech
-│🟡Get tech news
-│ 
-│📝: .nasa
-│🟡Get nasa news
+
+> 📝 .hirunews/news
+🧣Get news result for life
+ 
+> 📝 .wabeta
+🧣Get whatsapp beta news
+
+> 📝 .sitech
+🧣Get tech news
+ 
+> 📝 .nasa
+🧣Get nasa news
 ╰────────────⦁
 
 *╭──❮ GROUP S ❯*
-│
-│📝: .mute
-│🟡Mute group
-│
-│📝: .unmute
-│🟡Unmute group
-│
-│📝: .left
-│🟡left group
-│
-│📝: .jid
-│🟡group jid
+
+> 📝 .mute
+🧣Mute group
+
+> 📝 .unmute
+🧣Unmute group
+
+> 📝 .left
+🧣left group
+
+> 📝 .jid
+🧣group jid
 ╰────────────⦁
 
 *╭──❮ OWNER S ❯*
-│
-│📝: .update
-│🟡update bot velue 
-│
-│📝: .restart 
-│🟡restart your bot
+
+> 📝 .update
+🧣update bot velue 
+
+> 📝 .restart 
+🧣restart your bot
 ╰────────────⦁
 
 *╭──❮ CONVERT S ❯*
-│
-│📝: .sticker
-│🟡convert photo to sticker
+
+> 📝 .sticker
+🧣convert photo to sticker
 ╰────────────⦁
 
 
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> https://github.com/Ishara2011/ISHARA-MD
+> https//github.com/Ishara2011/ISHARA-MD
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> ᴄʀᴇᴀᴛᴇᴅ ʙʏ LAKSHITHA ISHARA🔰
+> CREATED BY LAKSHITHA ISHARA🔰
 
 ╰━❁ ═══ ❃•⇆•❃ ═══ ❁━╯
 `
 
-await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
+await conn.sendMessage(from,{image{urlconfig.ALIVE_IMG},captionmadeMenu},{quotedmek})
 
 }catch(e){
 console.log(e)
