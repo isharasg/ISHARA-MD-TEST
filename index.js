@@ -96,7 +96,7 @@ let up = `*╭──────────────●●►*
 > *YOUR BOT ACTIVE NOW ENJOY🧣*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://i.postimg.cc/44PphBQF/bot.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.postimg.cc/44PphBQF/bot.jpg` }, caption: up })
 
 }
 })
