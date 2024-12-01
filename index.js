@@ -178,11 +178,11 @@ m.react("🔰")
 //==========================public react===============//
 //AutoReact 
 if (!isReact && senderNumber !== botNumber) {
-if (config.AUTO_REACT === 'true')
+if (config.AUTO_REACT === 'false')
     m.react("✨");
 }
 if (!isReact && senderNumber === botNumber) {
-if (config.OWNER_REACT === 'true')
+if (config.OWNER_REACT === 'false')
     m.react("🔰");
 }                
 //============================        
