@@ -17,7 +17,7 @@ A simple bot created by Lakshitha Ishara🍁🌴😊
 <h3>🍁 Get Your SESSION ID 👇</h3> 
 <h5>🍁 SESSION_ID Error Fixed ✅</h5>
 	<p align="center">
-<a href="https://express-pairing-code2-1.onrender.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:-babypink?style=for-the-badge&logo=render"></a>
+<a href="https://lithu-md-fair-web-6f8813b33b65.herokuapp.com/">GET CODE</a>
 <p/>
 
 <h5>🍁 Now get your inbox and copy sessino id</h5>
