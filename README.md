@@ -1,4 +1,4 @@
-# 🟢⭕ISHARA-MD-A simple bot created by Lakshitha Ishara
+# 🟢ISHARA-MD-A simple bot created by Lakshitha Ishara:)🎀
 <div align="center">
 <img src="https://i.postimg.cc/G2Rdm8Yf/thumb.jpg">
 </div>
@@ -15,7 +15,7 @@
 <h3>⭕ Get Your SESSION ID 👇</h3> 
 <h5>⭕ SESSION_ID Error Fixed ✅</h5>
 	<p align="center">
-<a href="https://lithu-md-fair-web-6f8813b33b65.herokuapp.com/">GET CODE</a>
+<a href="https://express-pairing-code2-1.onrender.com/">GET CODE</a>
 <p/>
 
 <h5>⭕ Now get your inbox and copy sessino id</h5>
