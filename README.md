@@ -2,7 +2,7 @@
 A simple bot created by Lakshitha Ishara🍁🌴😊
 <div align="center">
 	<h3>🍁ISHARA-MD🍁</h3>
-<img src="https://i.postimg.cc/44PphBQF/bot.jpg">
+<img src="https://i.postimg.cc/G2Rdm8Yf/thumb.jpg">
 </div>
 
  <p align="center">
