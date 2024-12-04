@@ -1,6 +1,6 @@
 # 🟢ISHARA-MD-A simple bot created by Lakshitha Ishara:)🎀
 <div align="center">
-<img src="https://i.postimg.cc/G2Rdm8Yf/thumb.jpg">
+<img src="https://i.postimg.cc/BnycNPsG/20241204-092645.jpg">
 </div>
 
  <p align="center">
