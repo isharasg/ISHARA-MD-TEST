@@ -44,123 +44,79 @@ CREATED BY LAKSHITHA ISHARA🔰
 
 *╭──❮ DOWNLOAD S ❯*
 
-> 📝 .play
-🧣*Download Audio from yt*
- 
-> 📝 .song
-🧣Download song from yt
- 
-> 📝 .apk
-🧣Download apk from playstore
- 
-> 📝 .video
-🧣Download video from yt
- 
-> 📝 .fb
-🧣Download  video from fb
- 
-> 📝 .tk
-🧣Download video from tiktok
- 
-> 📝 .ig
-🧣Download video from ig
- 
-> 📝 .gdrive
-🧣Download drive files
- 
-> 📝 .wamod
-🧣Download wamod apk
+> 🔖 .play
 
-> 📝 .img
-🧣Download image
+> 🔖 .song
 
-> 📝 .xvideo
-🧣Download xxx video
-╰────────────⦁ 
+> 🔖 .apk
+ 
+> 🔖 .video
+
+> 🔖 .fb
+ 
+> 🔖 .tk
+ 
+> 🔖 .ig
+
+> 🔖 .gdrive
+
+> 🔖.img
+
+────────⦁ 
 
 *╭──❮ SEARCH S ❯*
 
-> 📝 .yts
-🧣Serch videos from yt
-╰────────────⦁  
+> 🔖 .yts
+
+──────────⦁  
 
 *╭──❮‍ MAIN S ❯*
 
-> 📝 .alive
-🧣Check online or not
+> 🔖 .alive
   
-> 📝 .ping
-🧣Check bot speed
+> 🔖 .ping
   
-> 📝 .menu
-🧣Nero main menu
-
-> 📝 .menu2
-🧣Nero main menu2
+> 🔖 .menu
  
-> 📝 .ai
-🧣chat with ai bot
+> 🔖 .ai
 
-> 📝 .system
-🧣check bot systems
+> 🔖 .system
 
-> 📝 .owner
-🧣get owner info
+> 🔖 .owner
  
-> 📝 .status
-🧣check bot runtime
-╰────────────⦁
+> 🔖 .status
+
+───────⦁
 
 *╭──❮ OTHER S ❯*
 
-> 📝 .hirunews/news
-🧣Get news result for life
- 
-> 📝 .wabeta
-🧣Get whatsapp beta news
+> 🔖 .wabeta
 
-> 📝 .sitech
-🧣Get tech news
- 
-> 📝 .nasa
-🧣Get nasa news
-╰────────────⦁
+───⦁
 
 *╭──❮ GROUP S ❯*
 
-> 📝 .mute
-🧣Mute group
-
-> 📝 .unmute
-🧣Unmute group
-
-> 📝 .left
-🧣left group
-
-> 📝 .jid
-🧣group jid
-╰────────────⦁
+> 🔖 .mute
 
 *╭──❮ OWNER S ❯*
 
-> 📝 .update
-🧣update bot velue 
+> 🔖 .update
 
-> 📝 .restart 
-🧣restart your bot
-╰────────────⦁
+> 🔖 .restart 
+
+──────⦁
 
 *╭──❮ CONVERT S ❯*
 
-> 📝 .sticker
-🧣convert photo to sticker
+> 🔖 .sticker
+
 ╰────────────⦁
 
 
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> https//github.com/Ishara2011/ISHARA-MD
+> https://github.com/Lakshitha-Ishara/ISHARA-MD
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
