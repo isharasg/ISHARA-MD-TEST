@@ -1,4 +1,6 @@
-# 🟢ISHARA-MD-A simple bot created by Lakshitha Ishara:)🎀
+# 🤖ISHARA-MD🏷️
+
+<h3>A simple WhatsApp Bot Created By Lakshitha Ishara...🌠🔰</h3>
 <div align="center">
 <img src="https://i.postimg.cc/BnycNPsG/20241204-092645.jpg">
 </div>
