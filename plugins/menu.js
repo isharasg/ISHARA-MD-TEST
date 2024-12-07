@@ -31,10 +31,6 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 
      *${pushname}*
 
-> *UPTIME:*  ${runtime(process.uptime())}
-
-> *RAM USAGE:* ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
-
 > *CREATOR*=Lakshitha Ishara〽️
 
 > *OWNER NUMBER*=94776406272〽️
@@ -92,12 +88,6 @@ CREATED BY LAKSHITHA ISHARA🔰
 
 ───────⦁
 
-*╭──❮ OTHER S ❯*
-
-> 🔖 .wabeta
-
-───⦁
-
 *╭──❮ GROUP S ❯*
 
 > 🔖 .mute
@@ -120,7 +110,7 @@ CREATED BY LAKSHITHA ISHARA🔰
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> https://github.com/Lakshitha-Ishara/ISHARA-MD
+*https://github.com/Lakshitha-Ishara/ISHARA-MD*
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
