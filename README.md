@@ -2,7 +2,7 @@
 
 <h3>A simple WhatsApp Bot Created By Lakshitha Ishara...🌠🔰</h3>
 <div align="center">
-<img src="https://i.postimg.cc/BnycNPsG/20241204-092645.jpg">
+<img src="https://i.postimg.cc/CKYQfRv5/ocean-car-floating-full-moon-scenery-digital-art-4k-wallpaper-uhdpaper-com-664-0-j.jpg">
 </div>
 
  <p align="center">
