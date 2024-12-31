@@ -44,65 +44,65 @@ CREATED BY LAKSHITHA ISHARA🔰
 
 *╭──❮ DOWNLOAD S ❯*
 
-> 🔖 .play
+> 📱 .play
 
-> 🔖 .song
+> 📱 .song
 
-> 🔖 .apk
+> 📱 .apk
  
-> 🔖 .video
+> 📱 .video
 
-> 🔖 .fb
+> 📱 .fb
  
-> 🔖 .tk
+> 📱 .tk
  
-> 🔖 .ig
+> 📱 .ig
 
-> 🔖 .gdrive
+> 📱 .gdrive
 
-> 🔖.img
+> 📱.img
 
 ────────⦁ 
 
 *╭──❮ SEARCH S ❯*
 
-> 🔖 .yts
+> 📱 .yts
 
 ──────────⦁  
 
 *╭──❮‍ MAIN S ❯*
 
-> 🔖 .alive
+> 📱 .alive
   
-> 🔖 .ping
+> 📱 .ping
   
-> 🔖 .menu
+> 📱 .menu
  
-> 🔖 .ai
+> 📱 .ai
 
-> 🔖 .system
+> 📱 .system
 
-> 🔖 .owner
+> 📱 .owner
  
-> 🔖 .status
+> 📱 .status
 
 ───────⦁
 
 *╭──❮ GROUP S ❯*
 
-> 🔖 .mute
+> 📱 .mute
 
 *╭──❮ OWNER S ❯*
 
-> 🔖 .update
+> 📱 .update
 
-> 🔖 .restart 
+> 📱 .restart 
 
 ──────⦁
 
 *╭──❮ CONVERT S ❯*
 
-> 🔖 .sticker
+> 📱 .sticker
 
 ╰────────────⦁
 
